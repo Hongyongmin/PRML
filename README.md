@@ -28,7 +28,7 @@ PRML STUDY in TACTICs LAB
 * 스터디 멤버
 
   * 홍용민: [github](https://github.com/Hongyongmin)
-  * 최인준
+  * 최인준: [github](https://github.com/cij1012)
   * 황성환
   * 정영진: [github](https://github.com/Jung0Jin)
   * 이충성: [github](https://github.com/leechoongsung)
