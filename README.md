@@ -31,7 +31,7 @@ PRML STUDY in TACTICs LAB
   * 최인준
   * 황성환
   * 정영진: [github](https://github.com/Jung0Jin)
-  * 이충성
+  * 이충성: [github](https://github.com/leechoongsung)
   * 홍지수
 
 * 스터디 일정
